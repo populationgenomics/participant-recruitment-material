@@ -6,7 +6,3 @@ This project is hosted on the [populationgenomics/participant-recruitment-materi
 ## About the project
 
 > _More information about the project here_.
-
-```
-This is a preformatted code block.
-```
