@@ -8,5 +8,5 @@ This project is hosted on the [populationgenomics/participant-recruitment-materi
 > _More information about the project here_.
 
 ```
-This is a preformated code block.
+This is a preformatted code block.
 ```
